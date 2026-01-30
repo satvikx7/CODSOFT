@@ -13,9 +13,4 @@ Concepts Used:
 - Minimax algorithm
 - Conditional statements
 
-How to Run:
-1. Open terminal / command prompt
-2. Navigate to the project folder
-3. Run the command: python tictactoe.py
-
 The program runs in the command line and allows a human player to play against the AI.
